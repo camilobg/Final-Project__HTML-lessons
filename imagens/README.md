@@ -1,2 +1,2 @@
-#imagens folder
-diretorio de imagens do projeto
+#IMAGENS FOLDER
+A projetc's image folder
